@@ -12,7 +12,7 @@ function WarningBar() {
   return (
     <div className={styles.warningBar}>
       <span>⚠️</span>
-      <strong>Warning:</strong> We are currently doing a transfer, data loss is expected.
+      <strong>Warning:</strong> We will soon be doing a transfer, data loss is expected.
     </div>
   );
 }
