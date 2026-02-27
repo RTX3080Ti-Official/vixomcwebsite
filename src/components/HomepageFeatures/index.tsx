@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/gitea.svg').default,
     description: (
       <>
-        All of our custom plugins are <b>open-source</b> on our own custom <a href="https//git.rtx3080ti0415.qzz.io/">Gitea</a>.
+        All of our custom plugins are <b>open-source</b> on our own custom <a href="/gitea">Gitea</a>.
       </>
     ),
   },

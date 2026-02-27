@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/gitea",
+      "destination": "https://git.rtx3080ti0415.qzz.io/",
+      "permanent": true
+    }
+  ]
+}
