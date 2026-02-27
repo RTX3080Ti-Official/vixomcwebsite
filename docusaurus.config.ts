@@ -63,7 +63,7 @@ const config: Config = {
       title: 'VixoMC',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/VM.png',
       },
       items: [
         /*{
